@@ -340,10 +340,12 @@ nav .fa-solid{
     nav .fa-regular{
         display: block;
         font-size: 25px;
+        color: rgb(255, 255, 255);
     }
     nav .fa-solid{
         display: block;
         font-size: 25px;
+        color: rgb(0, 0, 0);
     }
     nav ul{
         background: #A27B5C;
